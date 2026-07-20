@@ -1,0 +1,23 @@
+{
+  "short_name": "RV Services Invoicing",
+  "name": "RV Services Invoicing",
+  "description": "Een professionele en overzichtelijke online factuurgenerator speciaal ontworpen voor ZZP'ers.",
+  "icons": [
+    {
+      "src": "/regenerated_image_1784377448417.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/regenerated_image_1784377448417.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#7c3aed",
+  "display": "standalone",
+  "orientation": "portrait"
+}

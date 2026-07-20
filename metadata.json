@@ -1,0 +1,6 @@
+{
+  "name": "RV Services Invoicing",
+  "description": "Een professionele en overzichtelijke online factuurgenerator speciaal ontworpen voor ZZP'ers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
